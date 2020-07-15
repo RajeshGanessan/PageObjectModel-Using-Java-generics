@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-11-13T11:42:28 IST" name="InEDGE Test suite" finished-at="2019-11-13T11:43:02 IST" duration-ms="33590">
+    <groups>
+    </groups>
+    <test started-at="2019-11-13T11:42:28 IST" name="Test" finished-at="2019-11-13T11:43:02 IST" duration-ms="33590">
+      <class name="TestCases.loginTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestCases.loginTest@43f02ef2]" started-at="2019-11-13T11:42:28 IST" name="setUp" finished-at="2019-11-13T11:42:36 IST" duration-ms="7864" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyLoginPageTitle()[pri:1, instance:TestCases.loginTest@43f02ef2]" started-at="2019-11-13T11:42:36 IST" name="verifyLoginPageTitle" description="LoginPage Landing" finished-at="2019-11-13T11:42:36 IST" duration-ms="33" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginPageTitle -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:TestCases.loginTest@43f02ef2]" started-at="2019-11-13T11:42:36 IST" name="TearDown" finished-at="2019-11-13T11:42:36 IST" duration-ms="161" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestCases.loginTest@43f02ef2]" started-at="2019-11-13T11:42:36 IST" name="setUp" finished-at="2019-11-13T11:42:43 IST" duration-ms="6203" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyInvalidCredentials()[pri:2, instance:TestCases.loginTest@43f02ef2]" started-at="2019-11-13T11:42:43 IST" name="verifyInvalidCredentials" description="Verifying invalid Credentials" finished-at="2019-11-13T11:42:49 IST" duration-ms="6536" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyInvalidCredentials -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:TestCases.loginTest@43f02ef2]" started-at="2019-11-13T11:42:49 IST" name="TearDown" finished-at="2019-11-13T11:42:49 IST" duration-ms="141" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestCases.loginTest@43f02ef2]" started-at="2019-11-13T11:42:49 IST" name="setUp" finished-at="2019-11-13T11:42:56 IST" duration-ms="6418" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="logging_In()[pri:3, instance:TestCases.loginTest@43f02ef2]" started-at="2019-11-13T11:42:56 IST" name="logging_In" description="Login flow" finished-at="2019-11-13T11:43:02 IST" duration-ms="6012" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logging_In -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:TestCases.loginTest@43f02ef2]" started-at="2019-11-13T11:43:02 IST" name="TearDown" finished-at="2019-11-13T11:43:02 IST" duration-ms="132" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- TestCases.loginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- InEDGE Test suite -->
+</testng-results>
